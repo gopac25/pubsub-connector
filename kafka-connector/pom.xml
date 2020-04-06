@@ -102,6 +102,7 @@
             </filter>
           </filters>
         </configuration>
+          <!--        
         <executions>
           <execution>
             <phase>package</phase>
@@ -123,6 +124,7 @@
             </configuration>
           </execution>
         </executions>
+          -->
       </plugin>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
